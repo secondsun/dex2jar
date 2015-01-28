@@ -16,6 +16,7 @@
         <module>dex-tools</module>
         <module>commons-lite</module>
         <module>jar-rename</module>
+        <module>dex-maven-plugin</module>
     </modules>
     <dependencies>
         <dependency>
